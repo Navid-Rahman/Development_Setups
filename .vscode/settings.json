@@ -1,0 +1,52 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "flutterStylizer": null,
+  "editor.formatOnSave": true,
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "redhat.telemetry.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vscode_custom_css.imports": [
+    "file:///Users/navidrahman/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "editor.formatOnPaste": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "DartPad",
+  "terminal.integrated.fontFamily": "MesLoLGS NF",
+  "terminal.integrated.automationProfile.linux": {},
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "workbench.colorCustomizations": {},
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "editor.fontSize": 15,
+  "files.autoSave": "afterDelay",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "window.controlsStyle": "custom",
+  "window.titleBarStyle": "custom",
+  "git.autofetch": true,
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "editor.fontVariations": false,
+  "dartimportsorter.sortOnSave": true,
+  "workbench.settings.applyToAllProfiles": []
+}
